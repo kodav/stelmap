@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.303,=C:\Users\TEST\Documents\RAD Studio\Projects\wininet.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Users\TEST\Documents\RAD Studio\Projects\wininet.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\TEST\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,=C:\Program Files\Embarcadero\RAD Studio\9.0\lib\win32\release\psdk\wininet.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\TEST\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\TEST\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
