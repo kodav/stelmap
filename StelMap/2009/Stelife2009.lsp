@@ -1,0 +1,1 @@
+-+E:\Stelife\tileosm.obj -+E:\Stelife\stelmap.obj -+e:\codegear\rad studio\6.0\lib\SysInit.obj 
